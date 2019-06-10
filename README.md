@@ -1,6 +1,6 @@
 # RecyclerViewItemclickDemo
-###simple recyclerview itemclick
-###关键函数：pointToPosition（x,y）：根据点击的坐标获取对应item的position
+### simple recyclerview itemclick
+### 关键函数：pointToPosition（x,y）：根据点击的坐标获取对应item的position
 
 
 
